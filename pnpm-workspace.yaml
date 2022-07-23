@@ -1,0 +1,3 @@
+packages:
+  - 'dep-import-type'
+  - 'example-external-component'
